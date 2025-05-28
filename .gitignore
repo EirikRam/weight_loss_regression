@@ -31,8 +31,8 @@ ENV/
 env.bak/
 venv.bak/
 
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints
+# Jupyter Notebooks
+*.ipynb
 
 # PyCharm
 .idea/
